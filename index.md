@@ -1,3 +1,12 @@
+# Pratham Juvekar's First CS193 Homework
+
+## My favorite things about CS193
+
+- Being able to learn about useful Computer Science tools
+- Having lots of time to complete the homework
+- Having no quizzes or tests to worry about
+- Having easy access to office hours
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
